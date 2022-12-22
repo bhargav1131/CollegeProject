@@ -2,9 +2,10 @@
 # Collection of utility based GUI Programs built using Python and Tkinter toolkit
 ---
 > Entry point: appStore_main.py
+
 Install the required modules before running the program
 
-**A Few Screenshots**
+##A Few Screenshots
 
 ---
 
@@ -16,3 +17,7 @@ Install the required modules before running the program
 
 ## Password Generator
 ![passGen](https://user-images.githubusercontent.com/89238556/209175000-e65d775c-67ac-41fb-9d9e-8e2d7d01d76e.png)
+
+
+## Scientific Calculator
+![calc](https://user-images.githubusercontent.com/89238556/209175606-ef94802e-e25a-4293-800b-b68ce90740b5.png)
