@@ -5,7 +5,7 @@
 
 Install the required modules before running the program
 
-##A Few Screenshots
+## A Few Screenshots
 
 ---
 
