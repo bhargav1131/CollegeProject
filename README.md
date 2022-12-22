@@ -1,5 +1,5 @@
 # CollegeProject
-# Collection of utility based GUI Programs built using Python and Tkinter toolkit
+# Collection of utility based GUI Programs built using Python, Figma and Tkinter toolkit
 ---
 > Entry point: appStore_main.py
 
