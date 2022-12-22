@@ -1,4 +1,4 @@
-## Required Modulesto install
+## Required Modules to install
 
 - from pyqrcode import QRCode
 - from tkinter import font
@@ -8,3 +8,4 @@
 - from tkinter.filedialog import  *
 - from pickletools import optimize
 - from PyDictionary import PyDictionary
+- import json
